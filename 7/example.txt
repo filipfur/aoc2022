@@ -1,0 +1,18 @@
+$ cd a
+$ ls
+file.txt 88912
+kljfasf.csv 12312
+$ cd e
+$ ls
+fsdaas.as 88231
+$ cd ..
+$ cd b
+$ ls
+erher.exe 2342
+jjere.txt 112332
+gejasdas.sep 99882
+$ cd ..
+$ cd ..
+$ cd c
+$ ls
+hhej.y 8827
