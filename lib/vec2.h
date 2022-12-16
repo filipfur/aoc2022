@@ -2,8 +2,8 @@
 
 struct Vec2
 {
-    int x{0};
-    int y{0};
+    long long x{0};
+    long long y{0};
 
     Vec2() : Vec2{0, 0}
     {
@@ -15,7 +15,7 @@ struct Vec2
 
     }
 
-    Vec2(int x, int y) : x{x}, y{y}
+    Vec2(long long x, long long y) : x{x}, y{y}
     {
 
     }
